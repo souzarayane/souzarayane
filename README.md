@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rayane Souza
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in Java development
 - 💞️ I’m looking to collaborate on personal projects and training
 - 📫 How to reach me in https://www.linkedin.com/in/rayane-souza-df.
 
