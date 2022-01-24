@@ -1,8 +1,10 @@
 ![Bem vindo(a) ao meu repositório!](https://github.com/souzarayane/souzarayane/blob/main/Banner.png)
 
-- 👋 Olá, eu sou a Rayane Souza
-- 👀 Estou interessada em desenvolvimento Java e linguagens para web.
-- 💞️ Procuro colaborar com projetos pessoais e treinar algumas linguagens como: JavaScript, PHP, Java, HTML5 e CSS3.
+## O que vai encontrar nesse perfil?
+
+Neste perfil coloco meus estudos de linguagens para web e Java. Exercícios e treinamentos que realizo. 
+
+Quer conversar? Mande um e-mail para <a href="mailto:souzarayane1@outlook.com">souzarayane1@outlook.com</a> :wink:
 
 
 <!---
