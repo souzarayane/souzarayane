@@ -1,4 +1,4 @@
-<h1>Bem vindo(a) ao meu repositório</h1>
+![Bem vindo(a) ao meu repositório!](https://github.com/souzarayane/souzarayane/blob/main/Banner.png)
 
 - 👋 Olá, eu sou a Rayane Souza
 - 👀 Estou interessada em desenvolvimento Java e linguagens para web.
