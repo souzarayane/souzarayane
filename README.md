@@ -8,9 +8,9 @@ Quer conversar? Mande um e-mail para <a href="mailto:souzarayane1@outlook.com">s
 
 ## Meus Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzarayane&show_icons=true&theme=default)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=souzarayane&show_icons=true&theme=default" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzarayane)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzarayane)](https://github.com/anuraghazra/github-readme-stats" />
 
 
 
