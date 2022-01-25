@@ -4,17 +4,15 @@
 
 Neste perfil coloco meus estudos de linguagens para web e Java. Exercícios e treinamentos que realizo. 
 
-Quer conversar? Mande um e-mail para <a href="mailto:souzarayane1@outlook.com">souzarayane1@outlook.com</a> 
-Ou me encontre no ![Linkedin!](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) :wink:
-
 ## Meus Stats
+
+<div align="center">
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzarayane&show_icons=true)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzarayane&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzarayane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=souzarayane)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 ## Minhas Skills
 
@@ -24,3 +22,14 @@ Ou me encontre no ![Linkedin!](https://img.shields.io/badge/LinkedIn-0077B5?styl
 ![JavaScript!](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL!](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+## Contato
+
+<div style="display: inline_block">
+
+<a href="https://www.linkedin.com/in/rayane-souza-df/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ 
+<a href="mailto:souzarayane1@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+
+<a href="https://support.discord.com/hc/pt-br/profiles/1916932239105"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+
+</div>
