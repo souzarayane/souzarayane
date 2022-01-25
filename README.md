@@ -6,7 +6,7 @@ Neste perfil coloco meus estudos de linguagens para web e Java. Exercícios e tr
 
 ## Meus Stats
 
-<div align="center">
+<div style="display: flex; justify-content: space-around;">
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzarayane&show_icons=true)
 
@@ -24,7 +24,7 @@ Neste perfil coloco meus estudos de linguagens para web e Java. Exercícios e tr
 
 ## Contato
 
-<div style="display: inline_block">
+<div style="display: flex; justify-content: space-around;">
 
 <a href="https://www.linkedin.com/in/rayane-souza-df/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  
