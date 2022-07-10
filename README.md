@@ -1,9 +1,3 @@
-![Bem vindo(a) ao meu repositório!](https://github.com/souzarayane/souzarayane/blob/main/Banner.png)
-
-## O que vai encontrar nesse perfil?
-
-Neste perfil coloco meus estudos de linguagens para web e Java. Exercícios e treinamentos que realizo. 
-
 ## Meus Stats
 
 <div style="display: flex; justify-content: space-around;">
