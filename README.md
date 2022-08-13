@@ -6,6 +6,7 @@
 
 ## Meu Stats 📈
 ![Rayane's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzarayane&show_icons=true&theme=radical)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=souzarayane&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que Uso 💻
 <div style="display: inline_block"><br />
@@ -17,6 +18,5 @@
    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzarayane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzarayane&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=souzarayane)](https://github.com/anuraghazra/github-readme-stats)
