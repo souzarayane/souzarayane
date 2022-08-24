@@ -1,5 +1,5 @@
 # Olá, Eu sou a Rayane Souza ✌🏽
-🚀Seja muito bem-vindo(a) ao meu perfil. Sou estudante de Ciências da Computação no Instituto Federal de Brasília - IFB, e estou à procura da minha primeira oportunidade de trabalhar como desenvolvedora frontend. Quer me conhecer mais? Entre em contato por um dos links abaixo: <br />
+🚀Seja muito bem-vindo(a) ao meu perfil. Sou estudante de Licenciatura em Computação no Instituto Federal de Brasília - IFB, e estou à procura da minha primeira oportunidade de trabalhar como desenvolvedora frontend. Quer me conhecer mais? Entre em contato por um dos links abaixo: <br />
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayane-souza-df/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](souzarayane1@outlook.com)
