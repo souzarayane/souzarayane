@@ -1,5 +1,8 @@
 # 💫 About Me:
-:rocket: Seja muito bem-vindo(a) ao meu perfil. Meu foco é o desenvolvimento backend Java. Aqui no meu Github você encontrará estudos e projetos pessoais ligados ao backend e  noções do frontend.
+:rocket: Bem-vindo(a) ao meu Perfil GitHub!
+Sou Rayane Souza, uma desenvolvedora focada em backend Java. Neste perfil, você encontrará uma variedade de estudos e projetos pessoais que refletem minha paixão por desenvolvimento backend. Também compartilho alguns conhecimentos básicos em frontend, proporcionando uma visão abrangente das minhas habilidades e interesses.
+
+Fique à vontade para explorar meus repositórios, dar sugestões e acompanhar meu progresso na jornada de programação. Vamos nos conectar e aprender juntos!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Rayane#1757) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rayane-souza-df/) 
