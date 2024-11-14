@@ -1,6 +1,6 @@
 # 💫 About Me:
 :rocket: Bem-vindo(a) ao meu Perfil GitHub!
-Sou Rayane Souza, uma desenvolvedora focada em backend Java. Neste perfil, você encontrará uma variedade de estudos e projetos pessoais que refletem minha paixão por desenvolvimento backend. Também compartilho alguns conhecimentos básicos em frontend, proporcionando uma visão abrangente das minhas habilidades e interesses.
+Sou Stephanie Souza, uma desenvolvedora focada em backend Java. Neste perfil, você encontrará uma variedade de estudos e projetos pessoais que refletem minha paixão por desenvolvimento backend. Também compartilho alguns conhecimentos básicos em frontend, proporcionando uma visão abrangente das minhas habilidades e interesses.
 
 Fique à vontade para explorar meus repositórios, dar sugestões e acompanhar meu progresso na jornada de programação. Vamos nos conectar e aprender juntos!
 
